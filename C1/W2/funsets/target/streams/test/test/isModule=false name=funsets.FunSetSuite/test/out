@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements of each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- intersect elements contain in all set[0m[0m
+[0m[[0minfo[0m] [0m[32m- diff elements contain in s not in t[0m[0m
+[0m[[0minfo[0m] [0m[32m- filter elements contain in s satisfies f[0m[0m
+[0m[[0minfo[0m] [0m[32m- forall if all elements contain in s satisfies f[0m[0m
+[0m[[0minfo[0m] [0m[32m- exists if at least 1 element contain in s satisfies f[0m[0m
+[0m[[0minfo[0m] [0m[32m- map all element contain in s to a new set with f[0m[0m
